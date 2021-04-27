@@ -25,4 +25,7 @@ Aplicativo de e-commerce, com o intuito de realização de compras de produtos, 
 * Prettier;
 * Styled Components.
 
+##### Executar
+Para poder executar o projeto localmente, é necessário usar o comando *yarn json-server server.json -p 3333* para usar uma fake api.
+
 ##### Leonardo Dias, outubro de 2020.
